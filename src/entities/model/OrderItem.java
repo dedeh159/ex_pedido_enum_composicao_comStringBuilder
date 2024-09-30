@@ -1,6 +1,4 @@
-package entities;
-
-import entities.Product;
+package entities.model;
 
 public class OrderItem {
 

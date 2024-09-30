@@ -1,14 +1,13 @@
 package application;
 
-import entities.Client;
-import entities.Order;
-import entities.OrderItem;
-import entities.Product;
+import entities.model.Client;
+import entities.model.Order;
+import entities.model.OrderItem;
+import entities.model.Product;
 import entities.enums.OrderStatus;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.Instant;
 import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,6 +1,5 @@
-package entities;
+package entities.model;
 
-import entities.Client;
 import entities.enums.OrderStatus;
 
 import java.text.SimpleDateFormat;
